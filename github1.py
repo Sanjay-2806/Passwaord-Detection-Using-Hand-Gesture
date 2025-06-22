@@ -11,7 +11,7 @@ hands = mp_hands.Hands(max_num_hands=1)
 
 cap = cv.VideoCapture(0)
 print("Show Your Hand Broo!!!!")
-time.sleep(2)
+time.sleep(3)
 
 
 def get_fingers(hand_landmarks):
